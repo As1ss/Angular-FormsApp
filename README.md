@@ -1,27 +1,11 @@
 # FormsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+![image](https://github.com/As1ss/Angular-FormsApp/assets/123207726/1aba7335-322d-430d-aaba-c81661a97bd2)
 
-## Development server
+![image](https://github.com/As1ss/Angular-FormsApp/assets/123207726/068b8366-1b7b-4530-a5ea-3808a8fbdd22)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![image](https://github.com/As1ss/Angular-FormsApp/assets/123207726/b0bc604b-9da4-450d-9c17-23b8473e7ebf)
 
-## Code scaffolding
+![image](https://github.com/As1ss/Angular-FormsApp/assets/123207726/f6ee3c4a-b14d-4809-b580-e2d2acf7f8dd)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://as1ss.github.io/Angular-FormsApp/
